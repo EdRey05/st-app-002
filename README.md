@@ -1,3 +1,6 @@
+<a href="https://codespaces.new/EdRey05/st-app-002?quickstart=1" target="_blank"> 
+  <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces">
+</a>
 
 # Demo of the app 002_Automated_PPTX_PLA V06
 
